@@ -52,6 +52,9 @@ Thực thi [GameDatabase.sql](SQL/GameDatabase.sql) để tạo cơ sở dữ li
 Sau khi đã hoàn tất các bước trên thì trò chơi đã sẵn sàng để chơi
 
 <h2>🧑‍💻 Member </h2>
+
+Nhóm|4
+---|---
   
 Name|MSSV|Role
 ---|---|---
