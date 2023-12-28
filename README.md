@@ -1,4 +1,4 @@
-<h1 align="center" id="title">🔫🧟 IT008.O11__2D-Pixel-Shooter-Game-TheLastMan 🧟🔫</h1>
+<h1 align="center" id="title">🔫🧟 IT008.O11__2D-Pixel-Shooter-Game-TheLastMan </h1>
 <h2>🎮 About Project</h2>
 <p align="center">
   <img src="Demo Gif/image18.png" alt="project-image">
@@ -23,6 +23,7 @@
 </p>
 
 <h2>🔧 Feature</h2>
+Trò chơi có các tính năng như sau:
 
 -	Người chơi tạo mới nhân vật và có thể chơi lại khi thất bại.
 -	Lưu thông tin người chơi vào cơ sở dữ liệu được lưu trữ tại máy người chơi.
@@ -55,9 +56,9 @@ Sau khi đã hoàn tất các bước trên thì trò chơi đã sẵn sàng đ�
   
 Name|MSSV|Role
 ---|---|---
-`Ngo Duc Loc`|*22520790*|Leader
-`Bui Duy Phuc`|*22521108*|Member
-`Dang Thi Bao Linh`|*22520757*|Member
+`Ngô Đức Lộc`|*22520790*|Leader
+`Bùi Duy Phúc`|*22521108*|Member
+`Đặng Thị Bảo Linh`|*22520757*|Member
 
 <h2>License</h2>
 
