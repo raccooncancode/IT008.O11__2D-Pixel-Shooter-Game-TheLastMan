@@ -33,9 +33,15 @@
 
 
 <h2>💻 Built with</h2>
+<h3>Ngôn ngữ lập trình</h3>
+<p align ="middle">
+	<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
+
+<h3>Công cụ</h3>
 <p align = "middle">
   <img src="https://img.shields.io/badge/VisualStudio-purple?logo=visualstudio&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/microsoft-sql-server?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </p>
 
 <h2>👀 Installation</h2>
