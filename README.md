@@ -23,7 +23,6 @@
 </p>
 
 <h2>🔧 Feature</h2>
-Trò chơi có các tính năng như sau:
 
 -	Người chơi tạo mới nhân vật và có thể chơi lại khi thất bại.
 -	Lưu thông tin người chơi vào cơ sở dữ liệu được lưu trữ tại máy người chơi.
