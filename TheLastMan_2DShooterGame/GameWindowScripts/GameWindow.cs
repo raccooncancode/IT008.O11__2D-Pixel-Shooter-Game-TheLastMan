@@ -12,7 +12,7 @@ namespace TheLastMan_2DShooterGame
         private void GameWindow_Load(object sender, EventArgs e)
         {
             SoundPlayer soundPlayer = new SoundPlayer(AssetsLoader.Instance.Audio["BG Audio"]);
-            //soundPlayer.PlayLooping();
+            soundPlayer.PlayLooping();
         }
     }
 }
