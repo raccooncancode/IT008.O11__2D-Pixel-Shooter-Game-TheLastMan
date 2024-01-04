@@ -124,13 +124,16 @@ namespace TheLastMan_2DShooterGame
         }
         private void PlayHistoryGridView_RowPrePaint(object sender, DataGridViewRowPrePaintEventArgs e)
         {
-            if (Convert.ToInt32(PlayHistoryGridView.Rows[e.RowIndex].Cells[6].Value) == 1)
+            if (e.RowIndex < PlayHistoryGridView.RowCount - 1)
             {
-                PlayHistoryGridView.Rows[e.RowIndex].DefaultCellStyle.BackColor = Color.LightGreen;
-            }
-            else
-            {
-                PlayHistoryGridView.Rows[e.RowIndex].DefaultCellStyle.BackColor = Color.LightSalmon;
+                if (Convert.ToInt32(PlayHistoryGridView.Rows[e.RowIndex].Cells[6].Value) == 1)
+                {
+                    PlayHistoryGridView.Rows[e.RowIndex].DefaultCellStyle.BackColor = Color.LightGreen;
+                }
+                else
+                {
+                    PlayHistoryGridView.Rows[e.RowIndex].DefaultCellStyle.BackColor = Color.LightSalmon;
+                }
             }
         }
         private void PlayAgain_Button_Click(object sender , EventArgs e)
